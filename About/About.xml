@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>RimCuisine 2: Smokes and Shrooms Expansion (Continued)</name>
+  <author>Crustypeanut</author>
+  <packageId>Crustypeanut.RC2.SaSE</packageId>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+  </supportedVersions>
+  <modDependencies>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+    <li>
+      <packageId>Crustypeanut.RC2.Core</packageId>
+      <displayName>RimCuisine 2 Core</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1833592062</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Crustypeanut.RC2.Core</li>
+  </loadAfter>
+  <description>Update of Crustypeanuts mod for RimWorld 1.1
+https://steamcommunity.com/sharedfiles/filedetails/?id=1833593222
+
+[img]https://i.imgur.com/GYswkZ7.png[/img]
+
+Support-chat:
+https://invite.gg/mlie
+
+Non-steam version:
+https://github.com/emipa606/RimCuisine2SmokesandShroomsExpansion
+	
+--- Original Description ---
+RimCuisine 2: Smokes and Shrooms Expansion for 1.0
+
+Welcome to RimCuisine 2: Smokes and Shrooms! This expansion mod adds a variety of new drugs for your pawns to ultimately binge on to your frustration! It also adds two new crops and a number of new techs!
+
+------------------------------------------------------------
+
+Zopioids: From Zope to Skag to Viko to Dreamsticks, Zopioids are great for pain relief! If you donâ€™t mind the soul-crushing addictions, lack of energy and impending tolerance gain that seems to build faster than it shrinks (it's not a bug, it's a feature!) that is!. Zopioids are made from processed Dreamflower pods - Zope being the â€˜baseâ€™ chemical, which can also be smoked. Skag is a highly refined and concentrated form of Zope and is the big money-maker of the bunch due to addicts across the Rim. Be careful of it around your own pawns with its extremely high addiction rate though! Viko, meanwhile, is a medically refined version that is relatively safe to use as a chronic pain relief. Of course, with time it becomes addictive! Lastly, Dreamsticks are a combat-pain relief great for keeping the fight up until a pawn keels over from bullet holes. They are injected fast and dull pain depending on how many a pawn uses. However, combat performance reduces with each hit!
+
+Tobacco: Grow tobacco and roll it into cigarettes or cigars! Cigarettes are made by the bunch and are much more addictive - theyâ€™re great for selling, while Cigars are made slower and are better for actually using! Be careful though, pawns who frequently use tobacco will have to use more and more. Some pawns will smoke upwards of 7-8 a day during work! We all know those kind of people!
+
+Other Drugs From magic mushrooms to blue sky, to sunshine and floxacine, there are a variety of other drugs for your pawns to enjoy/binge on! Grow magic mushrooms in temperate biomes or hydroponically! Refine them into the powerful hallucinogen Sunshine! Make a chemically weaker and less-benefitical version of Wake-Up with Blue Sky! Prepare yourself for a raid on a â€˜secretâ€™ government facility with soldier pills! (Donâ€™t forget to run with your hands behind your back!) Boost your immune system with Floxacine! And more!
+
+--------------------------------------------------
+
+Patch Notes:
+
+-Fixed Tango tolerance description
+-Tobacco can now be grown in temperate biomes!
+-Made Zope a little safer to use.
+-Made sure Floxacine addiction canâ€™t spawn on pawns because it doesnâ€™t exist.
+-Made sure Shrooms addiction canâ€™t spawn on pawns because it doesnâ€™t exist.
+-Made Cigars and Cigarettes much safer to use regularly. Limiting usage to once per day will greatly slow the tolerance gain of nicotine, but will eventually cause addiction. Limiting usage to once every two days will completely negate the risk of addiction. Both Cigars and Cigarettes have a tolerance gain of .010 each, but nicotine tolerance fades away at .009 per day. Addiction chance begins at .050 tolerance. Upon reaching high enough tolerance, cigarettes have a 5% addiction chance and cigars have a 2%.
+-Added small (1) and (3) moodlets for smoking cigarettes and cigars, respectively. Cigarette moodlet lasts roughly 6 hours without tolerance, cigar lasts 12.
+-Made smoking cigars take longer (2x as long as a cigarette)
+-Updated art for cigarettes
+
+
+--------------------------------------------------
+
+Like my mods? Consider supporting me with delicious caffeine![ko-fi.com]
+
+--------------------------------------------------
+
+To-do List:
+
+Work on balance!
+Minor art tweaks and fixes.
+Bugfixes (hopefully there arenâ€™t any!)
+Compatibility patches!
+More drugs? More indepth drug-making? Weâ€™ll see!
+
+--------------------------------------------------
+
+Compatibilities:
+
+Same compatibilities as RimCuisine 2! Go read my rant over there! ;)</description>
+</ModMetaData>

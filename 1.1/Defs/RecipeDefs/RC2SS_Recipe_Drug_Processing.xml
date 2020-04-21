@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <RecipeDef Name="RC2_DrugProcessingBase" Abstract="True">
+    <defName>RC2_DrugProcessingBase</defName>
+    <label>make drugs</label>
+    <description>Make some drugs.</description>
+    <jobString>Making drugs.</jobString>
+    <workAmount>200</workAmount>
+    <workSpeedStat>DrugSynthesisSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_CookMeal</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workSkill>Intellectual</workSkill>
+    <recipeUsers>
+      <li>DrugLab</li>
+    </recipeUsers>
+  </RecipeDef>
+  <RecipeDef ParentName="RC2_DrugProcessingBase">
+    <defName>RC2_MakeCigarettes</defName>
+    <label>make cigarettes</label>
+    <description>Roll and prepare tobacco leaves into a pack of cigarettes. Each pack contains 20 cigarettes.</description>
+    <jobString>Making cigarettes.</jobString>
+    <workAmount>400</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawTobacco</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <products>
+      <RC2_Cigarette>20</RC2_Cigarette>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawTobacco</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawTobacco</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef ParentName="RC2_DrugProcessingBase">
+    <defName>RC2_MakeCigars</defName>
+    <label>make cigars</label>
+    <description>Roll and carefully prepare tobacco leaves into a set of cigars.  Far higher quality than plain cigarettes, Cigars are a more tastful form of tobacco.</description>
+    <jobString>Making cigars.</jobString>
+    <workAmount>800</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawTobacco</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
+    </ingredients>
+    <products>
+      <RC2_Cigar>4</RC2_Cigar>
+    </products>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawTobacco</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawTobacco</li>
+      </thingDefs>
+    </defaultIngredientFilter>
+  </RecipeDef>
+  <RecipeDef ParentName="RC2_DrugProcessingBase">
+    <defName>RC2_MakeSoldierPill</defName>
+    <label>make soldier pills</label>
+    <description>Prepare and pack nutrients in handy balls known as soldier pills.</description>
+    <jobString>Making soldier pills.</jobString>
+    <workAmount>1500</workAmount>
+    <ingredients>
+      <li>
+        <filter>
+          <categories>
+            <li>RC2_GrainsRaw</li>
+          </categories>
+        </filter>
+        <count>75</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Neutroamine</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>RC2_RawTeaLeaves</li>
+            <li>RC2_RawCoffeeBeans</li>
+          </thingDefs>
+        </filter>
+        <count>25</count>
+      </li>
+    </ingredients>
+    <products>
+      <RC2_SoldierPill>3</RC2_SoldierPill>
+    </products>
+    <fixedIngredientFilter>
+      <categories>
+        <li>RC2_GrainsRaw</li>
+      </categories>
+      <thingDefs>
+        <li>RC2_RawTeaLeaves</li>
+        <li>RC2_RawCoffeeBeans</li>
+        <li>Neutroamine</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <defaultIngredientFilter>
+      <thingDefs>
+        <li>RC2_RawTeaLeaves</li>
+        <li>RC2_RawCoffeeBeans</li>
+        <li>Neutroamine</li>
+      </thingDefs>
+      <categories>
+        <li>RC2_GrainsRaw</li>
+      </categories>
+    </defaultIngredientFilter>
+  </RecipeDef>
+</Defs>
