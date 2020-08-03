@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RC2_DrugProcessingBase.label>make drugs</RC2_DrugProcessingBase.label>
+  <RC2_DrugProcessingBase.description>Make some drugs.</RC2_DrugProcessingBase.description>
+  <RC2_DrugProcessingBase.jobString>Making drugs.</RC2_DrugProcessingBase.jobString>
+
+  <RC2_MakeCigarettes.label>make cigarettes</RC2_MakeCigarettes.label>
+  <RC2_MakeCigarettes.description>Roll and prepare tobacco leaves into a pack of cigarettes. Each pack contains 20 cigarettes.</RC2_MakeCigarettes.description>
+  <RC2_MakeCigarettes.jobString>Making cigarettes.</RC2_MakeCigarettes.jobString>
+
+  <RC2_MakeCigars.label>make cigars</RC2_MakeCigars.label>
+  <RC2_MakeCigars.description>Roll and carefully prepare tobacco leaves into a set of cigars.  Far higher quality than plain cigarettes, Cigars are a more tastful form of tobacco.</RC2_MakeCigars.description>
+  <RC2_MakeCigars.jobString>Making cigars.</RC2_MakeCigars.jobString>
+
+  <RC2_MakeSoldierPill.label>make soldier pills</RC2_MakeSoldierPill.label>
+  <RC2_MakeSoldierPill.description>Prepare and pack nutrients in handy balls known as soldier pills.</RC2_MakeSoldierPill.description>
+  <RC2_MakeSoldierPill.jobString>Making soldier pills.</RC2_MakeSoldierPill.jobString>
+
+
+</LanguageData>

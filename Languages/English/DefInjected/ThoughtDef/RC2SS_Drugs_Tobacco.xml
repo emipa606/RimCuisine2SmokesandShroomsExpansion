@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nicotine addiction -->
+
+  <RC2_NicotineWithdrawal.stages.1.label>Nicotine withdrawal</RC2_NicotineWithdrawal.stages.1.label>
+  <RC2_NicotineWithdrawal.stages.1.description>I need a smoke!</RC2_NicotineWithdrawal.stages.1.description>
+
+  <RC2_CigaretteHigh.stages.0.label>recently smoked cigarette</RC2_CigaretteHigh.stages.0.label>
+  <RC2_CigaretteHigh.stages.0.description>Boy do I love inhaling smoke for fun!</RC2_CigaretteHigh.stages.0.description>
+
+  <RC2_CigarHigh.stages.0.label>recently smoked cigar</RC2_CigarHigh.stages.0.label>
+  <RC2_CigarHigh.stages.0.description>Mm what a good flavor!</RC2_CigarHigh.stages.0.description>
+
+
+</LanguageData>
