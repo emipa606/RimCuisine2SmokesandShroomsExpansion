@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="RC2_RoughPlantBase">
+    <defName>RC2_RawTobacco</defName>
+    <label>tobacco leaves</label>
+    <description>Tobacco leaves, ready for prcessing into cigars or cigarettes.</description>
+    <graphicData>
+      <texPath>RC2_Things/RC2_Veg/TobaccoLeaves</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.8</MarketValue>
+    </statBases>
+    <thingCategories>
+      <li>PlantMatter</li>
+    </thingCategories>
+    <ingestible>
+      <foodType>Plant</foodType>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>15</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="RC2_RoughPlantBase">
+    <defName>RC2_RawDreamflower</defName>
+    <label>dreamflower pods</label>
+    <description>Raw cut pods of the dreamflower plant.</description>
+    <graphicData>
+      <texPath>RC2_Things/RC2_Veg/RawDreamflower</texPath>
+    </graphicData>
+    <statBases>
+      <MarketValue>1.7</MarketValue>
+    </statBases>
+    <comps>
+      <li Class="CompProperties_Rottable">
+        <daysToRotStart>7</daysToRotStart>
+        <rotDestroys>true</rotDestroys>
+      </li>
+    </comps>
+    <thingCategories>
+      <li>PlantMatter</li>
+    </thingCategories>
+  </ThingDef>
+</Defs>
