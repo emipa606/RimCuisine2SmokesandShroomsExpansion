@@ -7,15 +7,6 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1833593222
 
 ![Image](https://i.imgur.com/7Gzt3Rg.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/RimCuisine2SmokesandShroomsExpansion]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
 ![Image](https://i.imgur.com/NOW7jU1.png)
 
@@ -26,7 +17,7 @@ Welcome to RimCuisine 2: Smokes and Shrooms! This expansion mod adds a variety o
 
 ------------------------------------------------------------
 
-**Zopioids:** From Zope to Skag to Viko to Dreamsticks, Zopioids are great for pain relief! If you don’t mind the soul-crushing addictions, lack of energy and impending tolerance gain that seems to build faster than it shrinks (it&amp;apos;s not a bug, it&amp;apos;s a feature!) that is!.  Zopioids are made from processed Dreamflower pods - Zope being the ‘base’ chemical, which can also be smoked.  Skag is a highly refined and concentrated form of Zope and is the big money-maker of the bunch due to addicts across the Rim.  Be careful of it around your own pawns with its extremely high addiction rate though!  Viko, meanwhile, is a medically refined version that is relatively safe to use as a chronic pain relief.  Of course, with time it becomes addictive! Lastly, Dreamsticks are a combat-pain relief great for keeping the fight up until a pawn keels over from bullet holes.  They are injected fast and dull pain depending on how many a pawn uses.  However, combat performance reduces with each hit!
+**Zopioids:** From Zope to Skag to Viko to Dreamsticks, Zopioids are great for pain relief! If you don’t mind the soul-crushing addictions, lack of energy and impending tolerance gain that seems to build faster than it shrinks (it&apos;s not a bug, it&apos;s a feature!) that is!.  Zopioids are made from processed Dreamflower pods - Zope being the ‘base’ chemical, which can also be smoked.  Skag is a highly refined and concentrated form of Zope and is the big money-maker of the bunch due to addicts across the Rim.  Be careful of it around your own pawns with its extremely high addiction rate though!  Viko, meanwhile, is a medically refined version that is relatively safe to use as a chronic pain relief.  Of course, with time it becomes addictive! Lastly, Dreamsticks are a combat-pain relief great for keeping the fight up until a pawn keels over from bullet holes.  They are injected fast and dull pain depending on how many a pawn uses.  However, combat performance reduces with each hit!
 
 **Tobacco:** Grow tobacco and roll it into cigarettes or cigars! Cigarettes are made by the bunch and are much more addictive - they’re great for selling, while Cigars are made slower and are better for actually using! Be careful though, pawns who frequently use tobacco will have to use more and more.  Some pawns will smoke upwards of 7-8 a day during work! We all know those kind of people!
 
@@ -76,5 +67,18 @@ Same compatibilities as RimCuisine 2! Go read my rant over there! ;)
 -  If you have the solution for a problem, please post it to the GitHub repository.
 
 
+
+
+	
+![Image](https://i.imgur.com/PwoNOj4.png)
+
+
+
+-  See if the the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
 
 

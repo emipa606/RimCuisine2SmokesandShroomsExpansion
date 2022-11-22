@@ -1,5 +1,8 @@
 # Changelog for RimCuisine2SmokesandShroomsExpansion
 
+1.4.1 - Updated to 1.4
+
+
 1.0.3.0 - Now points to the continued core version
 
 
