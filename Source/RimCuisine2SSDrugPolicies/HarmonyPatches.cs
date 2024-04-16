@@ -10,8 +10,8 @@ public static class HarmonyPatches
     static HarmonyPatches()
     {
         var harmonyInstance = new Harmony("mehni.rimworld.rimCuisine.main");
-        harmonyInstance.Patch(AccessTools.Method(typeof(Scenario), "PostGameStart"), null,
-            new HarmonyMethod(typeof(HarmonyPatches), "GenerateStartingDrugPolicies_PostFix"));
+        harmonyInstance.Patch(AccessTools.Method(typeof(Scenario), nameof(Scenario.PostGameStart)), null,
+            new HarmonyMethod(typeof(HarmonyPatches), nameof(GenerateStartingDrugPolicies_PostFix)));
     }
 
     private static void GenerateStartingDrugPolicies_PostFix()
