@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: sunshine addiction -->
+  <RC2_SunshineAddiction.label>sunshine addiction</RC2_SunshineAddiction.label>
+  <!-- EN: Sunshine has built up in the pawn's system and has become reliant on its euphoria. Withdrawal will cause the pawn to wander confused commonly. -->
+  <RC2_SunshineAddiction.description>Sunshine has built up in the pawn's system and has become reliant on its euphoria. Withdrawal will cause the pawn to wander confused commonly.</RC2_SunshineAddiction.description>
+  <!-- EN: withdrawal -->
+  <RC2_SunshineAddiction.stages.withdrawal.label>withdrawal</RC2_SunshineAddiction.stages.withdrawal.label>
+  <!-- EN: walking on sunshine -->
+  <RC2_SunshineHigh.label>walking on sunshine</RC2_SunshineHigh.label>
+  <!-- EN: Sunshine reduces senses and mental competence, but ensures a strong euphoria when in their system. -->
+  <RC2_SunshineHigh.description>Sunshine reduces senses and mental competence, but ensures a strong euphoria when in their system.</RC2_SunshineHigh.description>
+  <!-- EN: sunshinetolerance -->
+  <RC2_SunshineTolerance.label>sunshinetolerance</RC2_SunshineTolerance.label>
+  <!-- EN: Sunshine has built up in their system, causing the pawn to have issues separating the euphoria and reality. Mental breaks can happen and can be very dangerous. -->
+  <RC2_SunshineTolerance.description>Sunshine has built up in their system, causing the pawn to have issues separating the euphoria and reality. Mental breaks can happen and can be very dangerous.</RC2_SunshineTolerance.description>
+  <!-- EN: small -->
+  <RC2_SunshineTolerance.stages.small-0.label>small</RC2_SunshineTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <RC2_SunshineTolerance.stages.small-1.label>small</RC2_SunshineTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <RC2_SunshineTolerance.stages.large.label>large</RC2_SunshineTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <RC2_SunshineTolerance.stages.massive.label>massive</RC2_SunshineTolerance.stages.massive.label>
+</LanguageData>

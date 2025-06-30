@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on skag -->
+  <RC2_SkagHigh.label>high on skag</RC2_SkagHigh.label>
+  <!-- EN: Skag almost entirely removes pain, causes exhaustion and reduces breathing and blood flow. -->
+  <RC2_SkagHigh.description>Skag almost entirely removes pain, causes exhaustion and reduces breathing and blood flow.</RC2_SkagHigh.description>
+  <!-- EN: skag high -->
+  <RC2_SkagHigh.stages.skag_high.label>skag high</RC2_SkagHigh.stages.skag_high.label>
+</LanguageData>

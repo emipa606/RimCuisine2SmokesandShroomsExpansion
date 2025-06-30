@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: recently smoked cigarette -->
+  <RC2_CigaretteHigh.stages.recently_smoked_cigarette.label>recently smoked cigarette</RC2_CigaretteHigh.stages.recently_smoked_cigarette.label>
+  <!-- EN: Boy do I love inhaling smoke for fun! -->
+  <RC2_CigaretteHigh.stages.recently_smoked_cigarette.description>Boy do I love inhaling smoke for fun!</RC2_CigaretteHigh.stages.recently_smoked_cigarette.description>
+  <!-- EN: recently smoked cigar -->
+  <RC2_CigarHigh.stages.recently_smoked_cigar.label>recently smoked cigar</RC2_CigarHigh.stages.recently_smoked_cigar.label>
+  <!-- EN: Mm what a good flavor! -->
+  <RC2_CigarHigh.stages.recently_smoked_cigar.description>Mm what a good flavor!</RC2_CigarHigh.stages.recently_smoked_cigar.description>
+  <!-- EN: Nicotine withdrawal -->
+  <RC2_NicotineWithdrawal.stages.Nicotine_withdrawal.label>Nicotine withdrawal</RC2_NicotineWithdrawal.stages.Nicotine_withdrawal.label>
+  <!-- EN: I need a smoke! -->
+  <RC2_NicotineWithdrawal.stages.Nicotine_withdrawal.description>I need a smoke!</RC2_NicotineWithdrawal.stages.Nicotine_withdrawal.description>
+</LanguageData>

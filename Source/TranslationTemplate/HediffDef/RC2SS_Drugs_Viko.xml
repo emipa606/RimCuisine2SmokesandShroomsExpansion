@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on viko -->
+  <RC2_VikoHigh.label>high on viko</RC2_VikoHigh.label>
+  <!-- EN: Viko is in the pawn's system, easing pain and increasing rest needs. -->
+  <RC2_VikoHigh.description>Viko is in the pawn's system, easing pain and increasing rest needs.</RC2_VikoHigh.description>
+  <!-- EN: viko high -->
+  <RC2_VikoHigh.stages.viko_high.label>viko high</RC2_VikoHigh.stages.viko_high.label>
+</LanguageData>

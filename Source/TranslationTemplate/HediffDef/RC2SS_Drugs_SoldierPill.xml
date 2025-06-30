@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: soldier pill addiction -->
+  <RC2_SoldierPillAddiction.label>soldier pill addiction</RC2_SoldierPillAddiction.label>
+  <!-- EN: The pawn is adjusted to soldier pills, and if taken off of soldier pills, can cause severe digestion issues, non-stop exhaustion, and acute hunger. -->
+  <RC2_SoldierPillAddiction.description>The pawn is adjusted to soldier pills, and if taken off of soldier pills, can cause severe digestion issues, non-stop exhaustion, and acute hunger.</RC2_SoldierPillAddiction.description>
+  <!-- EN: withdrawal -->
+  <RC2_SoldierPillAddiction.stages.withdrawal.label>withdrawal</RC2_SoldierPillAddiction.stages.withdrawal.label>
+  <!-- EN: soldier pill -->
+  <RC2_SoldierPillHigh.label>soldier pill</RC2_SoldierPillHigh.label>
+  <!-- EN: soldier pills reduce the need for hunger and rest, but after cause the reverse to happen in acute severities. -->
+  <RC2_SoldierPillHigh.description>soldier pills reduce the need for hunger and rest, but after cause the reverse to happen in acute severities.</RC2_SoldierPillHigh.description>
+  <!-- EN: soldier pill fall off -->
+  <RC2_SoldierPillHigh.stages.soldier_pill_fall_off.label>soldier pill fall off</RC2_SoldierPillHigh.stages.soldier_pill_fall_off.label>
+  <!-- EN: energized by soldier pills -->
+  <RC2_SoldierPillHigh.stages.energized_by_soldier_pills.label>energized by soldier pills</RC2_SoldierPillHigh.stages.energized_by_soldier_pills.label>
+  <!-- EN: soldier pill tolerance -->
+  <RC2_SoldierPillTolerance.label>soldier pill tolerance</RC2_SoldierPillTolerance.label>
+  <!-- EN: the pawn has built up tolerance to Soldier Pills. This can cause chemical damage. -->
+  <RC2_SoldierPillTolerance.description>the pawn has built up tolerance to Soldier Pills. This can cause chemical damage.</RC2_SoldierPillTolerance.description>
+  <!-- EN: small -->
+  <RC2_SoldierPillTolerance.stages.small.label>small</RC2_SoldierPillTolerance.stages.small.label>
+  <!-- EN: large -->
+  <RC2_SoldierPillTolerance.stages.large.label>large</RC2_SoldierPillTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <RC2_SoldierPillTolerance.stages.massive.label>massive</RC2_SoldierPillTolerance.stages.massive.label>
+</LanguageData>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: floxacine -->
+  <RC2_Chemical_Floxacine.label>floxacine</RC2_Chemical_Floxacine.label>
+  <!-- EN: Please, just delete the addiction. They shouldn't need floxacine. Floxacine isn't addictive and this shoudn't have appeared. -->
+  <RC2_Chemical_Floxacine.description>Please, just delete the addiction. They shouldn't need floxacine. Floxacine isn't addictive and this shoudn't have appeared.</RC2_Chemical_Floxacine.description>
+</LanguageData>

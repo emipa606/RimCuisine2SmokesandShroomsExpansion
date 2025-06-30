@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Patch>
   <!-- Item Categories Stuff -->
   <!--Adds in the new drug crops to the biomes.  As per the core patch, .0000000's represent plants growable in that biome, but not *actually* found in the wild.-->

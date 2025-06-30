@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: zope high -->
+  <RC2_ZopeHigh.stages.zope_high.label>zope high</RC2_ZopeHigh.stages.zope_high.label>
+  <!-- EN: Ooooh thats the stuff! -->
+  <RC2_ZopeHigh.stages.zope_high.description>Ooooh thats the stuff!</RC2_ZopeHigh.stages.zope_high.description>
+  <!-- EN: Zopioid withdrawal -->
+  <RC2_ZopioidWithdrawal.stages.Zopioid_withdrawal.label>Zopioid withdrawal</RC2_ZopioidWithdrawal.stages.Zopioid_withdrawal.label>
+  <!-- EN: I need a fix! Everything hurts and I feel nauseous. -->
+  <RC2_ZopioidWithdrawal.stages.Zopioid_withdrawal.description>I need a fix! Everything hurts and I feel nauseous.</RC2_ZopioidWithdrawal.stages.Zopioid_withdrawal.description>
+</LanguageData>

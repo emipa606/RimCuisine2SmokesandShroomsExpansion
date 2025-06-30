@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tango addiction -->
+  <RC2_TangoAddiction.label>tango addiction</RC2_TangoAddiction.label>
+  <!-- EN: the pawn now relies on Tango, and will become aggressive, tired, and less pain-resistant without regular dosages. -->
+  <RC2_TangoAddiction.description>the pawn now relies on Tango, and will become aggressive, tired, and less pain-resistant without regular dosages.</RC2_TangoAddiction.description>
+  <!-- EN: withdrawal -->
+  <RC2_TangoAddiction.stages.withdrawal.label>withdrawal</RC2_TangoAddiction.stages.withdrawal.label>
+  <!-- EN: tripping on tango -->
+  <RC2_TangoHigh.label>tripping on tango</RC2_TangoHigh.label>
+  <!-- EN: Tango is in the pawn's system, nullifying pain and reducing blood flow. -->
+  <RC2_TangoHigh.description>Tango is in the pawn's system, nullifying pain and reducing blood flow.</RC2_TangoHigh.description>
+  <!-- EN: tango tolerance -->
+  <RC2_TangoTolerance.label>tango tolerance</RC2_TangoTolerance.label>
+  <!-- EN: Tango has built up in the pawn's system. They more often will go on drug binges the more is built in their system. -->
+  <RC2_TangoTolerance.description>Tango has built up in the pawn's system. They more often will go on drug binges the more is built in their system.</RC2_TangoTolerance.description>
+  <!-- EN: small -->
+  <RC2_TangoTolerance.stages.small-0.label>small</RC2_TangoTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <RC2_TangoTolerance.stages.small-1.label>small</RC2_TangoTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <RC2_TangoTolerance.stages.large.label>large</RC2_TangoTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <RC2_TangoTolerance.stages.massive.label>massive</RC2_TangoTolerance.stages.massive.label>
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Smoked cigar -->
+  <RC2_Cigar.label>Smoked cigar</RC2_Cigar.label>
+  <!-- EN: You smoked a cigar. This isn't supposed to be visible. -->
+  <RC2_Cigar.description>You smoked a cigar. This isn't supposed to be visible.</RC2_Cigar.description>
+  <!-- EN: Smoked cigarette -->
+  <RC2_Cigarette.label>Smoked cigarette</RC2_Cigarette.label>
+  <!-- EN: Cigarette smoke. Isn't supposed to be visible. do something other than look at hediffs. -->
+  <RC2_Cigarette.description>Cigarette smoke. Isn't supposed to be visible. do something other than look at hediffs.</RC2_Cigarette.description>
+  <!-- EN: nicotine addiction -->
+  <RC2_NicotineAddiction.label>nicotine addiction</RC2_NicotineAddiction.label>
+  <!-- EN: This pawn smoked too many nicotine-based products (cigars and cigarettes) and is now reliant on them. They tend to be anxious, frustrated, and depressed without nicotine. Withdrawal usually lasts a year. -->
+  <RC2_NicotineAddiction.description>This pawn smoked too many nicotine-based products (cigars and cigarettes) and is now reliant on them. They tend to be anxious, frustrated, and depressed without nicotine. Withdrawal usually lasts a year.</RC2_NicotineAddiction.description>
+  <!-- EN: withdrawal -->
+  <RC2_NicotineAddiction.stages.withdrawal.label>withdrawal</RC2_NicotineAddiction.stages.withdrawal.label>
+  <!-- EN: nicotine tolerance -->
+  <RC2_NicotineTolerance.label>nicotine tolerance</RC2_NicotineTolerance.label>
+  <!-- EN: Nicotine has built up in the pawn's system. Cancer and Asthma are common symptoms of even low tolerance. -->
+  <RC2_NicotineTolerance.description>Nicotine has built up in the pawn's system. Cancer and Asthma are common symptoms of even low tolerance.</RC2_NicotineTolerance.description>
+  <!-- EN: small -->
+  <RC2_NicotineTolerance.stages.small.label>small</RC2_NicotineTolerance.stages.small.label>
+  <!-- EN: large -->
+  <RC2_NicotineTolerance.stages.large.label>large</RC2_NicotineTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <RC2_NicotineTolerance.stages.massive.label>massive</RC2_NicotineTolerance.stages.massive.label>
+</LanguageData>

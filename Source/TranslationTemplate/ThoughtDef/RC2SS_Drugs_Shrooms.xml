@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: low shrooms trip -->
+  <RC2_ShroomsHigh.stages.low_shrooms_trip.label>low shrooms trip</RC2_ShroomsHigh.stages.low_shrooms_trip.label>
+  <!-- EN: Woah.. I feel.. good.. -->
+  <RC2_ShroomsHigh.stages.low_shrooms_trip.description>Woah.. I feel.. good..</RC2_ShroomsHigh.stages.low_shrooms_trip.description>
+  <!-- EN: moderate shrooms trip -->
+  <RC2_ShroomsHigh.stages.moderate_shrooms_trip.label>moderate shrooms trip</RC2_ShroomsHigh.stages.moderate_shrooms_trip.label>
+  <!-- EN: I can hear colors and see sounds! Wooooooaaaaaaaah! -->
+  <RC2_ShroomsHigh.stages.moderate_shrooms_trip.description>I can hear colors and see sounds! Wooooooaaaaaaaah!</RC2_ShroomsHigh.stages.moderate_shrooms_trip.description>
+  <!-- EN: deep shrooms trip -->
+  <RC2_ShroomsHigh.stages.deep_shrooms_trip.label>deep shrooms trip</RC2_ShroomsHigh.stages.deep_shrooms_trip.label>
+  <!-- EN: WHAT IS REALITY? WHO IS REALITY? WHY IS REALITY? I'M TRIPPIN' BALLS MAN! -->
+  <RC2_ShroomsHigh.stages.deep_shrooms_trip.description>WHAT IS REALITY? WHO IS REALITY? WHY IS REALITY? I'M TRIPPIN' BALLS MAN!</RC2_ShroomsHigh.stages.deep_shrooms_trip.description>
+  <!-- EN: What? These aren't addictive silly! How'd the fuck you manage to get yourself addicted?! -->
+  <RC2_ShroomsWithdrawal.description>What? These aren't addictive silly! How'd the fuck you manage to get yourself addicted?!</RC2_ShroomsWithdrawal.description>
+  <!-- EN: Shrooms withdrawal -->
+  <RC2_ShroomsWithdrawal.stages.Shrooms_withdrawal.label>Shrooms withdrawal</RC2_ShroomsWithdrawal.stages.Shrooms_withdrawal.label>
+  <!-- EN: What? These aren't addictive silly! How'd the fuck you manage to get yourself addicted?! -->
+  <RC2_ShroomsWithdrawal.stages.Shrooms_withdrawal.description>What? These aren't addictive silly! How'd the fuck you manage to get yourself addicted?!</RC2_ShroomsWithdrawal.stages.Shrooms_withdrawal.description>
+</LanguageData>

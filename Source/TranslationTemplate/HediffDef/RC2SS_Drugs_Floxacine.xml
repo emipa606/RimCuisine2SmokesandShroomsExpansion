@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: floxacine addiction -->
+  <RC2_FloxacineAddiction.label>floxacine addiction</RC2_FloxacineAddiction.label>
+  <!-- EN: what are you doing with this? Floxacine isn't addictive. -->
+  <RC2_FloxacineAddiction.description>what are you doing with this? Floxacine isn't addictive.</RC2_FloxacineAddiction.description>
+  <!-- EN: withdrawal -->
+  <RC2_FloxacineAddiction.stages.withdrawal.label>withdrawal</RC2_FloxacineAddiction.stages.withdrawal.label>
+  <!-- EN: floxacine -->
+  <RC2_FloxacineHigh.label>floxacine</RC2_FloxacineHigh.label>
+  <!-- EN: Floxacine boosts immunity almost completely. Taking floxacine too much can cause severe liver damage. -->
+  <RC2_FloxacineHigh.description>Floxacine boosts immunity almost completely. Taking floxacine too much can cause severe liver damage.</RC2_FloxacineHigh.description>
+  <!-- EN: floxacine tolerance -->
+  <RC2_FloxacineTolerance.label>floxacine tolerance</RC2_FloxacineTolerance.label>
+  <!-- EN: The pawn has built up a tolerance to Floxacine. It can cause severe liver damage at high levels. -->
+  <RC2_FloxacineTolerance.description>The pawn has built up a tolerance to Floxacine. It can cause severe liver damage at high levels.</RC2_FloxacineTolerance.description>
+  <!-- EN: small -->
+  <RC2_FloxacineTolerance.stages.small.label>small</RC2_FloxacineTolerance.stages.small.label>
+  <!-- EN: large -->
+  <RC2_FloxacineTolerance.stages.large.label>large</RC2_FloxacineTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <RC2_FloxacineTolerance.stages.massive.label>massive</RC2_FloxacineTolerance.stages.massive.label>
+</LanguageData>

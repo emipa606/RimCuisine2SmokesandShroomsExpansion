@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: floxacine -->
+  <RC2_Floxacine.label>floxacine</RC2_Floxacine.label>
+  <!-- EN: This useful synthetic medicine greatly boosts the immune system for a short time when taken.  However, tolerance builds up extremely fast, and those with high tolerance suffer from liver problems down the line.  Still, if used in emergencies it's a useful drug to have around. -->
+  <RC2_Floxacine.description>This useful synthetic medicine greatly boosts the immune system for a short time when taken.  However, tolerance builds up extremely fast, and those with high tolerance suffer from liver problems down the line.  Still, if used in emergencies it's a useful drug to have around.</RC2_Floxacine.description>
+  <!-- EN: Take {0} -->
+  <RC2_Floxacine.ingestible.ingestCommandString>Take {0}</RC2_Floxacine.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <RC2_Floxacine.ingestible.ingestReportString>Taking {0}.</RC2_Floxacine.ingestible.ingestReportString>
+</LanguageData>

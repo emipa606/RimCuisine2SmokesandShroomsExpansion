@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: make cigarettes -->
+  <RC2_MakeCigarettes.label>make cigarettes</RC2_MakeCigarettes.label>
+  <!-- EN: Roll and prepare tobacco leaves into a pack of cigarettes. Each pack contains 20 cigarettes. -->
+  <RC2_MakeCigarettes.description>Roll and prepare tobacco leaves into a pack of cigarettes. Each pack contains 20 cigarettes.</RC2_MakeCigarettes.description>
+  <!-- EN: Making cigarettes. -->
+  <RC2_MakeCigarettes.jobString>Making cigarettes.</RC2_MakeCigarettes.jobString>
+  <!-- EN: make cigars -->
+  <RC2_MakeCigars.label>make cigars</RC2_MakeCigars.label>
+  <!-- EN: Roll and carefully prepare tobacco leaves into a set of cigars.  Far higher quality than plain cigarettes, Cigars are a more tastful form of tobacco. -->
+  <RC2_MakeCigars.description>Roll and carefully prepare tobacco leaves into a set of cigars.  Far higher quality than plain cigarettes, Cigars are a more tastful form of tobacco.</RC2_MakeCigars.description>
+  <!-- EN: Making cigars. -->
+  <RC2_MakeCigars.jobString>Making cigars.</RC2_MakeCigars.jobString>
+  <!-- EN: make soldier pills -->
+  <RC2_MakeSoldierPill.label>make soldier pills</RC2_MakeSoldierPill.label>
+  <!-- EN: Prepare and pack nutrients in handy balls known as soldier pills. -->
+  <RC2_MakeSoldierPill.description>Prepare and pack nutrients in handy balls known as soldier pills.</RC2_MakeSoldierPill.description>
+  <!-- EN: Making soldier pills. -->
+  <RC2_MakeSoldierPill.jobString>Making soldier pills.</RC2_MakeSoldierPill.jobString>
+</LanguageData>

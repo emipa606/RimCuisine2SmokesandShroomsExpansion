@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: tripping on tango -->
+  <RC2_TangoHigh.stages.tripping_on_tango.label>tripping on tango</RC2_TangoHigh.stages.tripping_on_tango.label>
+  <!-- EN: Thats the stuff.. yeah.. -->
+  <RC2_TangoHigh.stages.tripping_on_tango.description>Thats the stuff.. yeah..</RC2_TangoHigh.stages.tripping_on_tango.description>
+  <!-- EN: tango withdrawal -->
+  <RC2_TangoWithdrawal.stages.tango_withdrawal.label>tango withdrawal</RC2_TangoWithdrawal.stages.tango_withdrawal.label>
+  <!-- EN: Uuuuughghghghghghghghghghghggh. -->
+  <RC2_TangoWithdrawal.stages.tango_withdrawal.description>Uuuuughghghghghghghghghghghggh.</RC2_TangoWithdrawal.stages.tango_withdrawal.description>
+</LanguageData>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on zope -->
+  <RC2_ZopeHigh.label>high on zope</RC2_ZopeHigh.label>
+  <!-- EN: Zope exhausts a pawn while also decreasing pain slightly. Staying too long on zope can cause lung problems and cancer. -->
+  <RC2_ZopeHigh.description>Zope exhausts a pawn while also decreasing pain slightly. Staying too long on zope can cause lung problems and cancer.</RC2_ZopeHigh.description>
+  <!-- EN: zope high -->
+  <RC2_ZopeHigh.stages.zope_high.label>zope high</RC2_ZopeHigh.stages.zope_high.label>
+  <!-- EN: zopioid addiction -->
+  <RC2_ZopioidAddiction.label>zopioid addiction</RC2_ZopioidAddiction.label>
+  <!-- EN: The pawn is now reliant on Zopoid, causing increased pain, tiredness, and stress on the pawn. -->
+  <RC2_ZopioidAddiction.description>The pawn is now reliant on Zopoid, causing increased pain, tiredness, and stress on the pawn.</RC2_ZopioidAddiction.description>
+  <!-- EN: withdrawal -->
+  <RC2_ZopioidAddiction.stages.withdrawal.label>withdrawal</RC2_ZopioidAddiction.stages.withdrawal.label>
+  <!-- EN: zopioid tolerance -->
+  <RC2_ZopioidTolerance.label>zopioid tolerance</RC2_ZopioidTolerance.label>
+  <!-- EN: Taking too many zopoid products in too short of time can cause severe chemical damage in the liver and brain. -->
+  <RC2_ZopioidTolerance.description>Taking too many zopoid products in too short of time can cause severe chemical damage in the liver and brain.</RC2_ZopioidTolerance.description>
+  <!-- EN: small -->
+  <RC2_ZopioidTolerance.stages.small.label>small</RC2_ZopioidTolerance.stages.small.label>
+  <!-- EN: large -->
+  <RC2_ZopioidTolerance.stages.large.label>large</RC2_ZopioidTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <RC2_ZopioidTolerance.stages.massive.label>massive</RC2_ZopioidTolerance.stages.massive.label>
+</LanguageData>

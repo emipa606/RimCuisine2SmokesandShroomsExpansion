@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: shrooms addiction -->
+  <RC2_ShroomsAddiction.label>shrooms addiction</RC2_ShroomsAddiction.label>
+  <!-- EN: What? These aren't addictive silly! How'd the fuck you manage to get yourself addicted?! -->
+  <RC2_ShroomsAddiction.description>What? These aren't addictive silly! How'd the fuck you manage to get yourself addicted?!</RC2_ShroomsAddiction.description>
+  <!-- EN: withdrawal -->
+  <RC2_ShroomsAddiction.stages.withdrawal.label>withdrawal</RC2_ShroomsAddiction.stages.withdrawal.label>
+  <!-- EN: high on magic mushrooms -->
+  <RC2_ShroomsHigh.label>high on magic mushrooms</RC2_ShroomsHigh.label>
+  <!-- EN: shrooms, maaaan. -->
+  <RC2_ShroomsHigh.description>shrooms, maaaan.</RC2_ShroomsHigh.description>
+  <!-- EN: low shrooms trip -->
+  <RC2_ShroomsHigh.stages.low_shrooms_trip.label>low shrooms trip</RC2_ShroomsHigh.stages.low_shrooms_trip.label>
+  <!-- EN: moderate shrooms trip -->
+  <RC2_ShroomsHigh.stages.moderate_shrooms_trip.label>moderate shrooms trip</RC2_ShroomsHigh.stages.moderate_shrooms_trip.label>
+  <!-- EN: deep shrooms trip -->
+  <RC2_ShroomsHigh.stages.deep_shrooms_trip.label>deep shrooms trip</RC2_ShroomsHigh.stages.deep_shrooms_trip.label>
+  <!-- EN: shrooms tolerance -->
+  <RC2_ShroomsTolerance.label>shrooms tolerance</RC2_ShroomsTolerance.label>
+  <!-- EN: Shrooms have built up in this pawn's system, causing mental cohesion issues and chemical damage. -->
+  <RC2_ShroomsTolerance.description>Shrooms have built up in this pawn's system, causing mental cohesion issues and chemical damage.</RC2_ShroomsTolerance.description>
+  <!-- EN: small -->
+  <RC2_ShroomsTolerance.stages.small-0.label>small</RC2_ShroomsTolerance.stages.small-0.label>
+  <!-- EN: small -->
+  <RC2_ShroomsTolerance.stages.small-1.label>small</RC2_ShroomsTolerance.stages.small-1.label>
+  <!-- EN: large -->
+  <RC2_ShroomsTolerance.stages.large.label>large</RC2_ShroomsTolerance.stages.large.label>
+  <!-- EN: massive -->
+  <RC2_ShroomsTolerance.stages.massive.label>massive</RC2_ShroomsTolerance.stages.massive.label>
+</LanguageData>

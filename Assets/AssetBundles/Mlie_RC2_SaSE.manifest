@@ -1,0 +1,54 @@
+ManifestFileVersion: 0
+CRC: 2436850593
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35a85e56f802dba4a4ec01704506082a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 35a85e56f802dba4a4ec01704506082a
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Viko/Viko_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Viko/Viko_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Skag/Skag_c.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Cigar/Cigar_A.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Plants/TobaccoPlant/TobaccoPlant.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Skag/Skag_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/BlueSky/BlueSky_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Veg/RawDreamflower.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Floxacine/Floxcine_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Magicshrooms/Shrooms2_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Magicshrooms/Shrooms2_B.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Sunshine/Sunshine_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Plants/Shrooms/ShroomB.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Dreamstick/Dreamstick_c.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Floxacine/Floxicine_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/sCigarette/Cigarette_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Immature/DreamflowerPlant/DreamflowerPlantImmature.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Cigar/Cigar_c.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Zope/Zope_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/sCigarette/Cigarette_A.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Tango/Tango_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Plants/Shrooms/ShroomA.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Sunshine/Sunshine_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Plants/DreamflowerPlant/DreamflowerPlant.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Zope/Zope_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Dreamstick/Dreamstick_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Tango/Tango_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/BlueSky/BlueSky_a.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/FoodPill/FoodPill_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Cigar/Cigar_B.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/sCigarette/Cigarette_c.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Dreamstick/Dreamstick_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/Skag/Skag_b.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Veg/TobaccoLeaves.png
+- Assets/Data/Mlie.RC2.SaSE/Textures/RC2_Things/RC2_Drugs/FoodPill/FoodPill_a.png
+Dependencies: []

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cigar -->
+  <RC2_Cigar.label>cigar</RC2_Cigar.label>
+  <!-- EN: Similar to cigarettes, cigars are rolled from tobacco leaves. The main difference is that they are a much higher quality product, using less filler ingredients.  They're often flavored too, and usually enjoyed with alcohol. -->
+  <RC2_Cigar.description>Similar to cigarettes, cigars are rolled from tobacco leaves. The main difference is that they are a much higher quality product, using less filler ingredients.  They're often flavored too, and usually enjoyed with alcohol.</RC2_Cigar.description>
+  <!-- EN: Smoke {0} -->
+  <RC2_Cigar.ingestible.ingestCommandString>Smoke {0}</RC2_Cigar.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <RC2_Cigar.ingestible.ingestReportString>Smoking {0}.</RC2_Cigar.ingestible.ingestReportString>
+  <!-- EN: cigarette -->
+  <RC2_Cigarette.label>cigarette</RC2_Cigarette.label>
+  <!-- EN: Cigarettes are rolled from tobacco leaves into paper rolls that are then lit at one end and smoked.  They're addictive, cancer-causing but seen as a social activity on the Rim and elsewhere.  They've regained popularity on glitterworlds due to the availability of artificially grown and cybernetic organs. -->
+  <RC2_Cigarette.description>Cigarettes are rolled from tobacco leaves into paper rolls that are then lit at one end and smoked.  They're addictive, cancer-causing but seen as a social activity on the Rim and elsewhere.  They've regained popularity on glitterworlds due to the availability of artificially grown and cybernetic organs.</RC2_Cigarette.description>
+  <!-- EN: Smoke {0} -->
+  <RC2_Cigarette.ingestible.ingestCommandString>Smoke {0}</RC2_Cigarette.ingestible.ingestCommandString>
+  <!-- EN: Smoking {0}. -->
+  <RC2_Cigarette.ingestible.ingestReportString>Smoking {0}.</RC2_Cigarette.ingestible.ingestReportString>
+</LanguageData>

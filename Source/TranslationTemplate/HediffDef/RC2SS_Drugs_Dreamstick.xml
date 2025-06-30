@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on dreamstick -->
+  <RC2_DreamstickHigh.label>high on dreamstick</RC2_DreamstickHigh.label>
+  <!-- EN: Dreamsticks reduce pain, manipulation, and moving at higher dosages. at the highest possible dosage, pawns are incapable of feeling pain. -->
+  <RC2_DreamstickHigh.description>Dreamsticks reduce pain, manipulation, and moving at higher dosages. at the highest possible dosage, pawns are incapable of feeling pain.</RC2_DreamstickHigh.description>
+  <!-- EN: dreamstick level 1 -->
+  <RC2_DreamstickHigh.stages.dreamstick_level_1.label>dreamstick level 1</RC2_DreamstickHigh.stages.dreamstick_level_1.label>
+  <!-- EN: dreamstick level 2 -->
+  <RC2_DreamstickHigh.stages.dreamstick_level_2.label>dreamstick level 2</RC2_DreamstickHigh.stages.dreamstick_level_2.label>
+  <!-- EN: dreamstick level 3 -->
+  <RC2_DreamstickHigh.stages.dreamstick_level_3.label>dreamstick level 3</RC2_DreamstickHigh.stages.dreamstick_level_3.label>
+  <!-- EN: dreamstick level 4 -->
+  <RC2_DreamstickHigh.stages.dreamstick_level_4.label>dreamstick level 4</RC2_DreamstickHigh.stages.dreamstick_level_4.label>
+  <!-- EN: dreamstick level 5 -->
+  <RC2_DreamstickHigh.stages.dreamstick_level_5.label>dreamstick level 5</RC2_DreamstickHigh.stages.dreamstick_level_5.label>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blue sky -->
+  <RC2_BlueSky.label>blue sky</RC2_BlueSky.label>
+  <!-- EN: Closely related to Wake-up, Blue sky is a synthetic stimulant that promotes both energy and wakefulness in users.  However, its a highly addictive drug that also causes extreme aggressiveness, not to mention many health problems for long-term users.  It is, however, cheaper to produce than Wake-up. -->
+  <RC2_BlueSky.description>Closely related to Wake-up, Blue sky is a synthetic stimulant that promotes both energy and wakefulness in users.  However, its a highly addictive drug that also causes extreme aggressiveness, not to mention many health problems for long-term users.  It is, however, cheaper to produce than Wake-up.</RC2_BlueSky.description>
+  <!-- EN: Take {0} -->
+  <RC2_BlueSky.ingestible.ingestCommandString>Take {0}</RC2_BlueSky.ingestible.ingestCommandString>
+  <!-- EN: Taking {0}. -->
+  <RC2_BlueSky.ingestible.ingestReportString>Taking {0}.</RC2_BlueSky.ingestible.ingestReportString>
+</LanguageData>

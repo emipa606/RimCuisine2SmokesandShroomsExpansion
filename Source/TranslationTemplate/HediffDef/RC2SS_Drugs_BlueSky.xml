@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: high on blue sky -->
+  <RC2_BlueSkyHigh.label>high on blue sky</RC2_BlueSkyHigh.label>
+  <!-- EN: Blue Sky reduces rest factor by a little, increases conciousness and moving slightly, but greatly increases aggressiveness. -->
+  <RC2_BlueSkyHigh.description>Blue Sky reduces rest factor by a little, increases conciousness and moving slightly, but greatly increases aggressiveness.</RC2_BlueSkyHigh.description>
+  <!-- EN: a blue sky high -->
+  <RC2_BlueSkyHigh.labelNoun>a blue sky high</RC2_BlueSkyHigh.labelNoun>
+</LanguageData>
