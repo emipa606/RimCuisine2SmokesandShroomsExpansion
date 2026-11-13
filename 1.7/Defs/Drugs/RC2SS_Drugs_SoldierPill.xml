@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="DrugPillBase">
+    <defName>RC2_SoldierPill</defName>
+    <label>Soldier Pill</label>
+    <description>These potent brown 'pills' are made from a combination of high-energy food stuffs and various chemicals.  They provide the user with long-term energy and decreased hunger, although after their effects wear off, the user becomes exhausted and hungry.  Their best use is for soldiers in the field - but be warn of a dependance on them that can cause stomach conditions.</description>
+    <graphicData>
+      <texPath>RC2_Things/RC2_Drugs/FoodPill</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <rotatable>false</rotatable>
+    <statBases>
+      <WorkToMake>800</WorkToMake>
+      <MarketValue>16</MarketValue>
+      <Mass>0.005</Mass>
+      <Nutrition>1.0</Nutrition>
+    </statBases>
+    <techLevel>Industrial</techLevel>
+    <ingestible>
+      <foodType>Processed</foodType>
+      <baseIngestTicks>120</baseIngestTicks>
+      <nurseable>true</nurseable>
+      <drugCategory>Hard</drugCategory>
+      <ingestHoldOffsetStanding>
+        <northDefault>
+          <offset>(0.18,0,0)</offset>
+          <behind>true</behind>
+        </northDefault>
+      </ingestHoldOffsetStanding>
+      <outcomeDoers>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>RC2_SoldierPillHigh</hediffDef>
+          <severity>1.0</severity>
+          <toleranceChemical>RC2_SoldierPill</toleranceChemical>
+          <divideByBodySize>true</divideByBodySize>
+        </li>
+        <li Class="IngestionOutcomeDoer_OffsetNeed">
+          <need>Rest</need>
+          <offset>0.5</offset>
+          <toleranceChemical>RC2_SoldierPill</toleranceChemical>
+        </li>
+        <li Class="IngestionOutcomeDoer_GiveHediff">
+          <hediffDef>RC2_SoldierPillTolerance</hediffDef>
+          <severity>0.06</severity>
+          <divideByBodySize>true</divideByBodySize>
+        </li>
+      </outcomeDoers>
+    </ingestible>
+    <comps>
+      <li Class="CompProperties_Drug">
+        <chemical>RC2_SoldierPill</chemical>
+        <addictiveness>0.05</addictiveness>
+        <minToleranceToAddict>0.1</minToleranceToAddict>
+        <existingAddictionSeverityOffset>0.2</existingAddictionSeverityOffset>
+        <needLevelOffset>1</needLevelOffset>
+        <listOrder>20</listOrder>
+      </li>
+    </comps>
+  </ThingDef>
+  <HediffDef>
+    <defName>RC2_SoldierPillHigh</defName>
+    <description>soldier pills reduce the need for hunger and rest, but after cause the reverse to happen in acute severities.</description>
+    <hediffClass>HediffWithComps</hediffClass>
+    <label>soldier pill</label>
+    <defaultLabelColor>(1,0,0.5)</defaultLabelColor>
+    <scenarioCanAdd>true</scenarioCanAdd>
+    <maxSeverity>1.0</maxSeverity>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.5</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+        <label>soldier pill fall off</label>
+        <restFallFactor>5.0</restFallFactor>
+        <hungerRateFactorOffset>2.0</hungerRateFactorOffset>
+      </li>
+      <li>
+        <minSeverity>0.15</minSeverity>
+        <label>energized by soldier pills</label>
+        <restFallFactor>0.25</restFallFactor>
+        <hungerRateFactorOffset>-0.75</hungerRateFactorOffset>
+      </li>
+    </stages>
+  </HediffDef>
+  <!-- Zopioid addiction -->
+  <ChemicalDef>
+    <defName>RC2_SoldierPill</defName>
+    <label>soldier pill</label>
+    <addictionHediff>RC2_SoldierPillAddiction</addictionHediff>
+    <toleranceHediff>RC2_SoldierPillTolerance</toleranceHediff>
+    <onGeneratedAddictedToleranceChance>0.8</onGeneratedAddictedToleranceChance>
+  </ChemicalDef>
+  <NeedDef ParentName="DrugAddictionNeedBase">
+    <defName>RC2_Chemical_SoldierPill</defName>
+    <needClass>Need_Chemical</needClass>
+    <label>soldier pill</label>
+    <description>Because of a soldier pill addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms.</description>
+    <listPriority>25</listPriority>
+  </NeedDef>
+  <HediffDef ParentName="DrugToleranceBase">
+    <defName>RC2_SoldierPillTolerance</defName>
+    <description>the pawn has built up tolerance to Soldier Pills. This can cause chemical damage.</description>
+    <label>soldier pill tolerance</label>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.015</severityPerDay>
+      </li>
+      <li Class="HediffCompProperties_DrugEffectFactor">
+        <chemical>RC2_SoldierPill</chemical>
+      </li>
+    </comps>
+    <hediffGivers>
+      <li Class="HediffGiver_RandomDrugEffect">
+        <hediff>ChemicalDamageSevere</hediff>
+        <baseMtbDays>120</baseMtbDays>
+        <minSeverity>0.60</minSeverity>
+        <partsToAffect>
+          <li>Stomach</li>
+        </partsToAffect>
+        <countToAffect>1</countToAffect>
+      </li>
+      <li Class="HediffGiver_RandomDrugEffect">
+        <hediff>ChemicalDamageModerate</hediff>
+        <baseMtbDays>60</baseMtbDays>
+        <minSeverity>0.30</minSeverity>
+        <partsToAffect>
+          <li>Stomach</li>
+        </partsToAffect>
+        <countToAffect>1</countToAffect>
+      </li>
+    </hediffGivers>
+  </HediffDef>
+  <HediffDef ParentName="AddictionBase">
+    <defName>RC2_SoldierPillAddiction</defName>
+    <description>The pawn is adjusted to soldier pills, and if taken off of soldier pills, can cause severe digestion issues, non-stop exhaustion, and acute hunger.</description>
+    <hediffClass>Hediff_Addiction</hediffClass>
+    <label>soldier pill addiction</label>
+    <chemicalNeed>RC2_Chemical_SoldierPill</chemicalNeed>
+    <comps>
+      <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.0333</severityPerDay>
+      </li>
+    </comps>
+    <stages>
+      <li>
+      </li>
+      <li>
+        <label>withdrawal</label>
+        <restFallFactor>3</restFallFactor>
+        <hungerRateFactorOffset>3.0</hungerRateFactorOffset>
+        <vomitMtbDays>.5</vomitMtbDays>
+        <mentalStateGivers>
+          <li>
+            <mentalState>Binging_Food</mentalState>
+            <mtbDays>5</mtbDays>
+          </li>
+        </mentalStateGivers>
+      </li>
+    </stages>
+  </HediffDef>
+  <ThoughtDef>
+    <defName>RC2_SoldierPillWithdrawal</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>RC2_SoldierPillAddiction</hediff>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <visible>false</visible>
+      </li>
+      <li>
+        <label>soldier pill withdrawal</label>
+        <description>Ugh I'm so hungry.. nothing is satisfying me properly.</description>
+        <baseMoodEffect>-15</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>

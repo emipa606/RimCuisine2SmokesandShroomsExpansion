@@ -3,4 +3,39 @@
     <BuildType Name="Release" />
   </Configurations>
   <Project Path="RimCuisine2SSDrugPolicies/RimCuisine2SSDrugPolicies.csproj" />
+  <Folder Name="/.github/">
+    <File Path="../.github/copilot-instructions.md" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/Drugs/">
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_BlueSky.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Dreamstick.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Floxacine.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Shrooms.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Skag.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_SoldierPill.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Sunshine.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Tango.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Tobacco.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Viko.xml" />
+    <File Path="../1.7/Defs/Drugs/RC2SS_Drugs_Zope.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs_Plants/">
+    <File Path="../1.7/Defs/ThingDefs_Plants/RC2SS_Drug_Plants.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/RecipeDefs/">
+    <File Path="../1.7/Defs/RecipeDefs/RC2SS_Recipe_Drug_Processing.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ResearchProjectDefs/">
+    <File Path="../1.7/Defs/ResearchProjectDefs/RC2SS_Research_Projects_Misc.xml" />
+  </Folder>
+  <Folder Name="/XML/About/">
+    <File Path="../About/about.xml" />
+  </Folder>
+  <Folder Name="/XML/Patches/">
+    <File Path="../Patches/RimCuisine2SS_VanillaPatches.xml" />
+  </Folder>
+  <Folder Name="/XML/1.7/Defs/ThingDefs/">
+    <File Path="../1.7/Defs/ThingDefs/RC2SS_BuildingsJoy.xml" />
+    <File Path="../1.7/Defs/ThingDefs/RC2SS_Items_Resource_RawPlant.xml" />
+  </Folder>
 </Solution>
